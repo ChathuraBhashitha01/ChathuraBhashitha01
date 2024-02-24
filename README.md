@@ -2,4 +2,4 @@
 
 I'm Bhashitha from Srilanka,and I do Software Development
 
-![Chathura Bhashitha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathura Bhashitha&theme=vue-dark&hide_border=true)
+![Chathura Bhashitha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura Bhashitha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
